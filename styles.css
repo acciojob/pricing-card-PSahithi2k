@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.card{
+	box-shadow:2px 2px 2px 2px grey;
+	padding: 40px 40px 40px 40px;
+}
+.img{
+	padding:10px;
+	display: block;
+}
+.priceDetails{
+	text-align:center;
+}
+.button{
+	color:white;
+	background-color: rgb(245, 107, 61);
+	border:none;
+	border-radius:2px;
+}
